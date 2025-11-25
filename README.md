@@ -1,13 +1,13 @@
-# 🎮 Welcome to [Server Name]!
+# 🎮 Welcome to NexxusDrako.exaroton.me!
 
-A **community-driven PaperMC Minecraft server** featuring land management, RPG skills, town building, and cooperative gameplay. Whether you're looking to start a new adventure, build a town, or join a thriving nation, this is the place for you!
+A **community-focused PaperMC survival server** featuring town & nation building with Towny, RPG skill progression with AuraSkills, and a thriving player-driven economy. Claim land, build with friends, level up diverse skills, and trade in a fair and balanced environment. Join us for cooperative gameplay where your progress matters!
 
 ---
 
 ## 🚀 Quick Start Guide
 
 ### What You Need
-- **Minecraft Java Edition** (Latest version recommended)
+- **Minecraft Java Edition** *1.21.10*
 - **Internet connection** and a valid Minecraft account
 - A few minutes to set up!
 
