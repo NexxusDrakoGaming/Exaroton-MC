@@ -1,0 +1,10 @@
+AuraSkills
+EssentialsX
+LuckPerms
+PlaceholderAPI
+Profitable
+Spark
+TheNewEconomy
+Towny
+TownyChat|
+VaultUnlocked
